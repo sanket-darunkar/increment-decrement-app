@@ -26,4 +26,3 @@ This is a simple React.js application styled with **Tailwind CSS**, built to dem
 - ⚛️ React.js (with functional components)
 - 🎨 Tailwind CSS
 - 📦 Vite / Create React App (any bundler you used)
-- 
